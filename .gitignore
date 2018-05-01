@@ -17,3 +17,6 @@ vendor
 
 # final binary
 graphite-nozzle
+
+# IntelliJ
+.idea
